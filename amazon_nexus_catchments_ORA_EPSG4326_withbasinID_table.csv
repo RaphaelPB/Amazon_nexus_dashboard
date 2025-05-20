@@ -1,0 +1,392 @@
+hbid_id,hbid_id_ds,basin_name,hbid_name,catchment,catchment_,area_km2,country,brazil_UF,basin_ID
+4015,-999,"Northeast South America, South Atlantic Coast",Courantyne 1,c4015,outlet,2656.3883813163393,Suriname,,AMZ_OTCA
+4017,4015,"Northeast South America, South Atlantic Coast",Courantyne 2,c4017,c4015,9129.53513781462,Suriname,,AMZ_OTCA
+4022,-999,"Northeast South America, South Atlantic Coast",Coppename,c4022,outlet,21121.640333102354,Suriname,,AMZ_OTCA
+4024,-999,"Northeast South America, South Atlantic Coast",Suriname,c4024,outlet,16760.536968311473,Suriname,,AMZ_OTCA
+4036,-999,"Northeast South America, South Atlantic Coast",Araguari 1,c4036,outlet,12424.78329833989,Brazil,AP,AMZ_OTCA
+6043,-999,Tocantins,Acara,c6043,outlet,13296.332948851006,Brazil,PA,AMZ_OTCA
+6045,-999,Tocantins,Guama,c6045,outlet,12908.914112803717,Brazil,PA,AMZ_OTCA
+7004,-999,"North Brazil, South Atlantic Coast",Turiacu,c7004,outlet,13297.479797017704,Brazil,MA,AMZ_OTCA
+4016,4015,"Northeast South America, South Atlantic Coast",Kabalebo,c4016,c4015,9617.343939548187,Suriname,,AMZ_OTCA
+4020,4017,"Northeast South America, South Atlantic Coast",Lucie,c4020,c4017,10006.118145084969,Suriname,,AMZ_OTCA
+4038,4036,"Northeast South America, South Atlantic Coast",Araguari 2,c4038,c4036,15379.37337659861,Brazil,AP,AMZ_OTCA
+7007,7006,"North Brazil, South Atlantic Coast",Zutiua,c7007,c7006,9937.913056920457,Brazil,MA,AMZ_OTCA
+12096,12094,La Plata,Cabacal,c12096,c12094,5603.333163875568,Brazil,MT,AMZ_OTCA
+5034,5030,Amazon,Maicuru,c5034,c5030,16133.358520008118,Brazil,PA,Main_AMZ
+5037,5036,Amazon,Ipitinga,c5037,c5036,9590.787454649218,Brazil,PA,Main_AMZ
+5218,5216,Amazon,Urucu,c5218,c5216,14541.3180160206,Brazil,AM,Main_AMZ
+5241,5240,Amazon,Gregorio,c5241,c5240,8756.719052083556,Brazil,AC,Jurua
+5088,5087,Amazon,Preto,c5088,c5087,10426.372564669593,Brazil,RO,Madeira
+5093,5092,Amazon,Guapore 1,c5093,c5092,15329.501571924679,Brazil,RO,Madeira
+5100,5093,Amazon,San Julian 1,c5100,c5093,37570.80918392181,Bolivia,,Madeira
+5111,5092,Amazon,Mamore 2,c5111,c5092,19258.243532103177,Bolivia,,Madeira
+5112,5111,Amazon,Apere,c5112,c5111,14698.0174595564,Bolivia,,Madeira
+5113,5111,Amazon,Yacuma,c5113,c5111,12144.306745502285,Bolivia,,Madeira
+5092,5091,Amazon,Mamore 1,c5092,c5091,9682.946200095894,Brazil,RO,Madeira
+5127,5091,Amazon,Beni 1,c5127,c5091,14539.06656824036,Bolivia,RO,Madeira
+5131,5129,Amazon,Madre de Dios 2,c5131,c5129,16380.20871845079,Bolivia,,Madeira
+5136,5127,Amazon,Orthon,c5136,c5127,4250.746695313927,Bolivia,,Madeira
+5137,5136,Amazon,Manuripi,c5137,c5136,13565.567735221117,Bolivia,,Madeira
+5146,5145,Amazon,Negro,c5146,c5145,8855.020504710365,Bolivia,,Madeira
+5147,5091,Amazon,Branco,c5147,c5091,13144.083393986217,Brazil,RO,Madeira
+5109,5092,Amazon,Ouro Preto,c5109,c5092,16917.608392808575,Brazil,RO,Madeira
+5148,5091,Amazon,Jamari,c5148,c5091,16429.502478782688,Brazil,RO,Madeira
+5149,5148,Amazon,Candeias,c5149,c5148,12834.208653723552,Brazil,RO,Madeira
+5079,5077,Amazon,Mataura,c5079,c5077,8130.659072163942,Brazil,AM,Madeira
+5115,5111,Amazon,Mamore 3,c5115,c5111,20566.56896244075,Bolivia,,Madeira
+5126,5115,Amazon,Ibare,c5126,c5115,11850.20809255453,Bolivia,,Madeira
+5110,5092,Amazon,Yata,c5110,c5092,20635.33407991789,Bolivia,RO,Madeira
+5078,5077,Amazon,Manicore,c5078,c5077,11115.809098058015,Brazil,AM,Madeira
+5082,5080,Amazon,Roosevelt 1,c5082,c5080,10570.882707166287,Brazil,AM,Madeira
+5081,5080,Amazon,Guaribe,c5081,c5080,16218.801920901305,Brazil,MT,Madeira
+5083,5082,Amazon,Branco,c5083,c5082,12382.122706028602,Brazil,MT,Madeira
+5084,5082,Amazon,Madeirinha,c5084,c5082,11138.91531128075,Brazil,MT,Madeira
+5090,5087,Amazon,Marmelos,c5090,c5087,27455.637631670852,Brazil,AM,Madeira
+5095,5093,Amazon,Manuel Correia,c5095,c5093,9304.425255466514,Brazil,RO,Madeira
+5094,5093,Amazon,Sao Simao,c5094,c5093,8340.058440319779,Brazil,RO,Madeira
+5106,5093,Amazon,Guapore 2,c5106,c5093,23157.55469847773,Brazil,RO,Madeira
+5096,5093,Amazon,Blanco,c5096,c5093,28039.32911850864,Bolivia,RO,Madeira
+5097,5096,Amazon,San Martin 1,c5097,c5096,16383.378311886254,Bolivia,,Madeira
+5098,5097,Amazon,Negro,c5098,c5097,16372.572197434978,Bolivia,,Madeira
+5099,5097,Amazon,San Martin 2,c5099,c5097,15843.011193066919,Bolivia,,Madeira
+5101,5100,Amazon,Tunas,c5101,c5100,8603.878634344052,Bolivia,,Madeira
+5102,5100,Amazon,Machupo,c5102,c5100,18962.952539360027,Bolivia,,Madeira
+5105,5093,Amazon,Cautario,c5105,c5093,7044.83707913336,Brazil,RO,Madeira
+5107,5106,Amazon,Paragua,c5107,c5106,29166.99433720701,Bolivia,MT,Madeira
+5114,5113,Amazon,Rapulo,c5114,c5113,9241.617326763851,Bolivia,,Madeira
+5124,5115,Amazon,Secure,c5124,c5115,6316.116532892448,Bolivia,,Madeira
+5116,5115,Amazon,Ichilo,c5116,c5115,20051.1294844878,Bolivia,,Madeira
+5119,5117,Amazon,Yapacani,c5119,c5117,10322.87012454503,Bolivia,,Madeira
+5118,5117,Amazon,Mizque,c5118,c5117,10411.963055913913,Bolivia,,Madeira
+5120,5119,Amazon,Piray,c5120,c5119,14907.00931448853,Bolivia,,Madeira
+5125,5124,Amazon,Isiboro,c5125,c5124,14729.599060311733,Bolivia,,Madeira
+5128,5127,Amazon,Biata,c5128,c5127,7951.2539765609845,Bolivia,,Madeira
+5129,5127,Amazon,Madre de Dios 1,c5129,c5127,6382.641025501836,Bolivia,,Madeira
+5139,5127,Amazon,Beni 2,c5139,c5127,25002.828259966893,Bolivia,,Madeira
+5130,5129,Amazon,Manupari,c5130,c5129,11802.946910900284,Bolivia,,Madeira
+5144,5139,Amazon,Madidi,c5144,c5139,12603.614218446217,Bolivia,,Madeira
+5132,5131,Amazon,Tambopata,c5132,c5131,15252.677040985256,Peru,,Madeira
+5259,5257,Amazon,Morona,c5259,c5257,16663.083604460167,Peru,,Maranon
+5254,5246,Amazon,Chambira,c5254,c5246,9217.302811190266,Peru,,Maranon
+5248,5247,Amazon,Mayo,c5248,c5247,9758.936766526183,Peru,,Maranon
+5250,5249,Amazon,Huallabamba,c5250,c5249,13867.707321535,Peru,,Maranon
+5256,5255,Amazon,Corrientes,c5256,c5255,12943.131136127522,Peru,,Maranon
+5257,5246,Amazon,Maranon 2,c5257,c5246,27180.558548706387,Peru,,Maranon
+5260,5257,Amazon,Cenepa,c5260,c5257,6795.304149680663,Peru,,Maranon
+5261,5257,Amazon,Santiago,c5261,c5257,10546.024547110716,Peru,,Maranon
+5181,5178,Amazon,Negro 2,c5181,c5178,12519.206021597274,Brazil,AM,Negro
+5182,5181,Amazon,Jauaperi 1,c5182,c5181,7039.494449022474,Brazil,RR,Negro
+5197,5181,Amazon,Jufari,c5197,c5181,12534.274526467096,Brazil,AM,Negro
+5186,5181,Amazon,Branco 1,c5186,c5181,12942.699799452437,Brazil,RR,Negro
+5188,5186,Amazon,Agua Boa do Univini,c5188,c5186,8951.624989545875,Brazil,RR,Negro
+5190,5186,Amazon,Branco 2,c5190,c5186,14002.654556021376,Brazil,RR,Negro
+5192,5190,Amazon,Branco 3,c5192,c5190,9489.341239293499,Brazil,RR,Negro
+5200,5199,Amazon,Araca,c5200,c5199,16657.109013268942,Brazil,AM,Negro
+5203,5201,Amazon,Padauari,c5203,c5201,17306.35943118814,Brazil,AM,Negro
+5204,5201,Amazon,Cauaburi,c5204,c5201,12085.099229830492,Brazil,AM,Negro
+5213,5212,Amazon,Pasimoni,c5213,c5212,10342.368999844668,Venezuela,AM,Negro
+5205,5201,Amazon,Negro 4,c5205,c5201,26650.95423117422,Brazil,AM,Negro
+5207,5205,Amazon,Curicuriari,c5207,c5205,14138.29437897744,Brazil,AM,Negro
+5208,5205,Amazon,Uaupes 1,c5208,c5205,7539.139800815117,Brazil,AM,Negro
+5171,5163,Amazon,Purus 3,c5171,c5163,39040.72158786711,Brazil,AM,Purus
+5169,5168,Amazon,Pinhua,c5169,c5168,9275.984706769594,Brazil,AM,Purus
+5173,5171,Amazon,Inauini,c5173,c5171,13427.765152542781,Brazil,AM,Purus
+5176,5175,Amazon,Chandless,c5176,c5175,10228.250496333925,Brazil,AC,Purus
+5048,5047,Amazon,Teles Pires 1,c5048,c5047,20734.469303225218,Brazil,PA,Tapajos
+5052,5051,Amazon,Sao Joao da Barra,c5052,c5051,9333.031031635417,Brazil,MT,Tapajos
+5058,5057,Amazon,Peixes,c5058,c5057,14573.461888118156,Brazil,MT,Tapajos
+5043,5041,Amazon,Jamanxim 2,c5043,c5041,16071.35813132093,Brazil,PA,Tapajos
+5046,5045,Amazon,Tropas,c5046,c5045,13484.18709530311,Brazil,PA,Tapajos
+5049,5048,Amazon,Apiaca,c5049,c5048,16026.00450241047,Brazil,MT,Tapajos
+5063,5062,Amazon,Verde,c5063,c5062,13404.362786100251,Brazil,MT,Tapajos
+5065,5047,Amazon,Cururu,c5065,c5047,9719.257698374657,Brazil,PA,Tapajos
+6009,6007,Tocantins,Araguaia 3,c6009,c6007,19246.45442613043,Brazil,GO,Tocantins
+6017,6016,Tocantins,Pindaiba,c6017,c6016,10011.560855788635,Brazil,MT,Tocantins
+6021,6007,Tocantins,Braco Menor do Rio Araguaia 1,c6021,c6007,13293.133490542526,Brazil,TO,Tocantins
+6029,6027,Tocantins,Tocantins 3,c6029,c6027,57944.37202429101,Brazil,TO,Tocantins
+6022,6021,Tocantins,Formoso,c6022,c6021,21523.110772403208,Brazil,TO,Tocantins
+6032,6029,Tocantins,Santa Teresa,c6032,c6029,14619.947334705666,Brazil,GO,Tocantins
+6038,6029,Tocantins,Tocantins 4,c6038,c6029,20630.276982719875,Brazil,GO,Tocantins
+6023,6021,Tocantins,Braco Menor do Rio Araguaia 2,c6023,c6021,17734.67918517043,Brazil,TO,Tocantins
+6015,6009,Tocantins,Cristalino,c6015,c6009,11760.22170548417,Brazil,MT,Tocantins
+6024,6004,Tocantins,Itacaiunas 1,c6024,c6004,12612.24343675238,Brazil,PA,Tocantins
+6034,6029,Tocantins,Sono 1,c6034,c6029,5108.262402109078,Brazil,TO,Tocantins
+6035,6034,Tocantins,Balsas,c6035,c6034,12360.398398572584,Brazil,TO,Tocantins
+5070,5066,Amazon,Itapi,c5070,c5066,12781.186726272987,Brazil,PA,Trombetas
+5271,5270,Amazon,Tambo,c5271,c5270,4522.2677793458315,Peru,,Ucayali
+5273,5271,Amazon,Ene,c5273,c5271,9407.96851644123,Peru,,Ucayali
+5023,5019,Amazon,Xingu 6,c5023,c5019,4244.758120857614,Brazil,MT,Xingu
+5027,5023,Amazon,Culuene 1,c5027,c5023,3614.744952786522,Brazil,MT,Xingu
+5007,5004,Amazon,Xingu 2,c5007,c5004,10124.842153753565,Brazil,PA,Xingu
+5010,5008,Amazon,Iriri 2,c5010,c5008,43267.36979364797,Brazil,PA,Xingu
+5015,5014,Amazon,Riozinho,c5015,c5014,8678.511388794568,Brazil,PA,Xingu
+5021,5019,Amazon,Arraias,c5021,c5019,9495.014880987486,Brazil,MT,Xingu
+5224,5222,Amazon,Miriti Parana,c5224,c5222,8780.263718406006,Colombia,,Caqueta_Japura
+5226,5225,Amazon,Mesay,c5226,c5225,14169.998407756935,Colombia,,Caqueta_Japura
+5225,5222,Amazon,Yari,c5225,c5222,22480.496748302452,Colombia,,Caqueta_Japura
+4003,-999,"Northeast South America, South Atlantic Coast",Waini,c4003,outlet,9375.465572311794,Guyana,,AMZ_OTCA
+4005,-999,"Northeast South America, South Atlantic Coast",Essequibo 1,c4005,outlet,23187.59401681182,Guyana,,AMZ_OTCA
+4012,4005,"Northeast South America, South Atlantic Coast",Essequibo 2,c4012,c4005,22578.208599961632,Guyana,PA,AMZ_OTCA
+4037,4036,"Northeast South America, South Atlantic Coast",Amapari,c4037,c4036,15024.11287769662,Brazil,AP,AMZ_OTCA
+5024,5023,Amazon,Tamitatoala,c5024,c5023,6731.499014896532,Brazil,MT,Xingu
+5026,5024,Amazon,Ferro,c5026,c5024,11864.50812014088,Brazil,MT,Xingu
+5030,5003,Amazon,Amazon 1,c5030,c5003,26183.968213404267,Brazil,PA,Main_AMZ
+5039,5030,Amazon,Amazon 2,c5039,c5030,10893.515494050785,Brazil,PA,Main_AMZ
+5040,5039,Amazon,Tapajos 1,c5040,c5039,27125.43463015615,Brazil,PA,Tapajos
+5047,5045,Amazon,Tapajos 3,c5047,c5045,23652.423607846373,Brazil,PA,Tapajos
+5060,5048,Amazon,Teles Pires 2,c5060,c5048,19387.237814520562,Brazil,MT,Tapajos
+5009,5008,Amazon,Curua,c5009,c5008,36953.676234356084,Brazil,PA,Xingu
+5061,5060,Amazon,Peixoto de Azevido,c5061,c5060,19432.59052212657,Brazil,MT,Tapajos
+5028,5027,Amazon,Coliseu,c5028,c5027,11666.27388234894,Brazil,MT,Xingu
+5064,5062,Amazon,Teles Pires 4,c5064,c5062,20950.513292635605,Brazil,MT,Xingu
+5057,5053,Amazon,Arinos,c5057,c5053,44318.78051845411,Brazil,MT,Tapajos
+5068,5066,Amazon,Paru de Oeste,c5068,c5066,41972.21382664451,Brazil,PA,Trombetas
+5066,5039,Amazon,Trombetas 1,c5066,c5039,8101.555671851337,Brazil,PA,Trombetas
+5054,5053,Amazon,Camarare,c5054,c5053,10980.588281655146,Brazil,MT,Tapajos
+5086,5080,Amazon,Aripuana 2,c5086,c5080,53772.54374246268,Brazil,MT,Madeira
+5087,5077,Amazon,Madeira 2,c5087,c5077,22787.588505522366,Brazil,AM,Madeira
+5055,5053,Amazon,Saueruina,c5055,c5053,22299.31350920782,Brazil,MT,Tapajos
+5108,5106,Amazon,Guapore 3,c5108,c5106,58973.23097622395,Brazil,MT,Madeira
+5103,5100,Amazon,San Julian 2,c5103,c5100,17434.328028479686,Bolivia,,Madeira
+5134,5131,Amazon,Madre de Dios 3,c5134,c5131,36502.090675724074,Peru,,Madeira
+5091,5087,Amazon,Madeira 3,c5091,c5087,18702.439935577324,Brazil,RO,Madeira
+5072,5039,Amazon,Amazon 3,c5072,c5039,30879.034853776753,Brazil,AM,Abacaxis
+5150,5072,Amazon,Preto do Igapo-Acu 1,c5150,c5072,13364.288288422445,Brazil,AM,Madeira
+5153,5150,Amazon,Preto do Igapo-Acu 2,c5153,c5150,13653.344415903728,Brazil,AM,Madeira
+5156,5072,Amazon,Manuru,c5156,c5072,10003.20982026444,Brazil,PA,Abacaxis
+5175,5171,Amazon,Purus 4,c5175,c5171,32101.04974866674,Brazil,AC,Purus
+5177,5175,Amazon,Iaco,c5177,c5175,26466.14108184485,Brazil,AC,Purus
+5178,5159,Amazon,Negro 1,c5178,c5159,21068.670676092537,Brazil,AM,Negro
+5184,5182,Amazon,Jauaperi 2,c5184,c5182,16875.685785748512,Brazil,RR,Negro
+5187,5186,Amazon,Catrimani,c5187,c5186,12614.738889462733,Brazil,RR,Negro
+4007,4006,"Northeast South America, South Atlantic Coast",Kwitaro,c4007,c4006,10667.387612767503,Guyana,,AMZ_OTCA
+5195,5192,Amazon,Tacutu,c5195,c5192,16704.65344308219,Brazil,RR,Negro
+4008,4005,"Northeast South America, South Atlantic Coast",Mazaruni,c4008,c4005,31685.614573200357,Guyana,RR,AMZ_OTCA
+5196,5195,Amazon,Ireng,c5196,c5195,11487.596445024186,Guyana,RR,Negro
+5216,5159,Amazon,Amazon 5,c5216,c5159,17072.79127310892,Brazil,AM,Main_AMZ
+5220,5216,Amazon,Japura,c5220,c5216,47173.59001311487,Brazil,AM,Caqueta_Japura
+5233,5216,Amazon,Amazon 6,c5233,c5216,29106.286078734807,Brazil,AM,Main_AMZ
+5235,5233,Amazon,Putumayo 1,c5235,c5233,35073.50139021155,Colombia,AM,Putumayo_Ica
+5237,5235,Amazon,Igara Parana,c5237,c5235,13026.299748234193,Colombia,,Putumayo_Ica
+5245,5233,Amazon,Amazon 7,c5245,c5233,54208.64238004879,Peru,AM,Main_AMZ
+5265,5245,Amazon,Ucayali 1,c5265,c5245,62970.890483454416,Peru,AC,Ucayali
+5270,5265,Amazon,Ucayali 2,c5270,c5265,21954.974250743653,Peru,,Ucayali
+5272,5271,Amazon,Perene,c5272,c5271,18345.580829559687,Peru,,Ucayali
+5281,5278,Amazon,Itacuai,c5281,c5278,23825.408378765533,Brazil,AM,Javari
+6001,-999,Tocantins,Pacaja,c6001,outlet,30691.876274350445,Brazil,PA,AMZ_OTCA
+5016,5014,Amazon,Fresco 2,c5016,c5014,26579.78279479048,Brazil,PA,Xingu
+6005,6004,Tocantins,Araguaia 1,c6005,c6004,36018.09002315238,Brazil,TO,Tocantins
+6007,6005,Tocantins,Araguaia 2,c6007,c6005,63031.581149858306,Brazil,TO,Tocantins
+6016,6009,Tocantins,Mortes 1,c6016,c6009,21423.6516925931,Brazil,MT,Tocantins
+6019,6009,Tocantins,Araguaia 4,c6019,c6009,24373.871539442527,Brazil,GO,Tocantins
+6031,6030,Tocantins,Palma,c6031,c6030,17857.048917041986,Brazil,TO,Tocantins
+6033,6029,Tocantins,Manuel Alves da Natividade,c6033,c6029,14962.579823982998,Brazil,TO,Tocantins
+7002,-999,"North Brazil, South Atlantic Coast",Gurupi,c7002,outlet,34815.170402038915,Brazil,PA,AMZ_OTCA
+7006,-999,"North Brazil, South Atlantic Coast",Pindare,c7006,outlet,30420.81938575005,Brazil,MA,AMZ_OTCA
+12084,12076,La Plata,Sao Lourenco 1,c12084,c12076,14020.990136866187,Brazil,MS,AMZ_OTCA
+12089,12084,La Plata,Sao Lourenco 2,c12089,c12084,10384.628101132153,Brazil,MT,AMZ_OTCA
+12094,12076,La Plata,Paraguay 5,c12094,c12076,27497.68690120618,Brazil,MT,AMZ_OTCA
+12097,12094,La Plata,Sepotuba,c12097,c12094,9902.256510164372,Brazil,MT,AMZ_OTCA
+6027,6004,Tocantins,Tocantins 2,c6027,c6004,32850.04760350005,Brazil,MA,Tocantins
+7008,-999,"North Brazil, South Atlantic Coast",Mearim,c7008,outlet,37008.588741069485,Brazil,MA,AMZ_OTCA
+6004,-999,Tocantins,Tocantins 1,c6004,outlet,36377.92435480935,Brazil,PA,Tocantins
+4004,-999,"Northeast South America, South Atlantic Coast",Pomeroon,c4004,outlet,8338.609298262878,Guyana,,AMZ_OTCA
+3042,3029,Orinoco,Orinoco 7,c3042,c3029,12473.808226427818,Colombia,,AMZ_OTCA
+3044,3042,Orinoco,Guaviare 1,c3044,c3042,13345.598407784362,Colombia,,AMZ_OTCA
+3045,3044,Orinoco,Uva,c3045,c3044,9180.535922851313,Colombia,,AMZ_OTCA
+3047,3044,Orinoco,Guaviare 2,c3047,c3044,26518.46816317386,Colombia,,AMZ_OTCA
+3048,3047,Orinoco,Guayabero,c3048,c3047,24237.936909982538,Colombia,,AMZ_OTCA
+3050,3042,Orinoco,Atabapo,c3050,c3042,12475.906018332034,Colombia,,AMZ_OTCA
+4002,-999,"Northeast South America, South Atlantic Coast",Barima,c4002,outlet,13483.742755277923,Guyana,,AMZ_OTCA
+4009,4008,"Northeast South America, South Atlantic Coast",Cuyuni,c4009,c4008,32215.50468186052,Guyana,,AMZ_OTCA
+4013,-999,"Northeast South America, South Atlantic Coast",Demerara,c4013,outlet,12514.845300874813,Guyana,,AMZ_OTCA
+4014,-999,"Northeast South America, South Atlantic Coast",Berbice,c4014,outlet,18132.94274909303,Guyana,,AMZ_OTCA
+4021,-999,"Northeast South America, South Atlantic Coast",Nickerie,c4021,outlet,14391.090063149166,Suriname,,AMZ_OTCA
+4023,-999,"Northeast South America, South Atlantic Coast",Saramacca,c4023,outlet,9883.916669208369,Suriname,,AMZ_OTCA
+4025,-999,"Northeast South America, South Atlantic Coast",Cottica,c4025,outlet,7853.919511310518,Suriname,,AMZ_OTCA
+4026,-999,"Northeast South America, South Atlantic Coast",Maroni,c4026,outlet,8851.471911031684,Suriname,,AMZ_OTCA
+4028,4026,"Northeast South America, South Atlantic Coast",Lawa,c4028,c4026,14520.414713549017,Suriname,,AMZ_OTCA
+4029,4028,"Northeast South America, South Atlantic Coast",Itany,c4029,c4028,15009.043682070125,Suriname,AP,AMZ_OTCA
+4027,4026,"Northeast South America, South Atlantic Coast",Tapanahoni,c4027,c4026,19738.660157047547,Suriname,PA,AMZ_OTCA
+4034,-999,"Northeast South America, South Atlantic Coast",Oyapock,c4034,outlet,26837.57412463374,Brazil,AP,AMZ_OTCA
+5002,-999,Amazon,Ilha de Marajo,c5002,outlet,44547.23094564632,Brazil,PA,AMZ_OTCA
+5004,5003,Amazon,Xingu 1,c5004,c5003,14662.16052753935,Brazil,PA,Xingu
+5017,5013,Amazon,Xingu 4,c5017,c5013,38842.84220242094,Brazil,PA,Xingu
+5035,5030,Amazon,Paru,c5035,c5030,39645.43039625141,Brazil,PA,Main_AMZ
+5038,5036,Amazon,Jari 2,c5038,c5036,30262.182006834566,Brazil,AP,Main_AMZ
+5042,5041,Amazon,Riozinho,c5042,c5041,21496.955198062707,Brazil,PA,Tapajos
+4019,4017,"Northeast South America, South Atlantic Coast",Coeroeni,c4019,c4017,16612.660545033064,Suriname,PA,AMZ_OTCA
+5071,5066,Amazon,Trombetas 2,c5071,c5066,39000.79457364037,Brazil,PA,Trombetas
+5080,5077,Amazon,Aripuana 1,c5080,c5077,17237.88408216437,Brazil,AM,Madeira
+5104,5103,Amazon,Parapeti,c5104,c5103,42498.32880594653,Bolivia,,Madeira
+5117,5115,Amazon,Grande 1,c5117,c5115,38067.32322810013,Bolivia,,Madeira
+5121,5117,Amazon,Grande 2,c5121,c5117,10458.755672989726,Bolivia,,Madeira
+5123,5121,Amazon,Grande 3,c5123,c5121,11440.999373338496,Bolivia,,Madeira
+5135,5134,Amazon,Inambari,c5135,c5134,19839.008662461918,Peru,,Madeira
+5140,5139,Amazon,Kaka,c5140,c5139,21399.004877493215,Bolivia,,Madeira
+5141,5139,Amazon,Alto Beni,c5141,c5139,18720.531612465107,Bolivia,,Madeira
+5142,5141,Amazon,Boopi,c5142,c5141,12929.45819413515,Bolivia,,Madeira
+5163,5161,Amazon,Purus 2,c5163,c5161,23478.05154104495,Brazil,AM,Purus
+5167,5163,Amazon,Mucuim,c5167,c5163,13577.901028766722,Brazil,AM,Purus
+5191,5190,Amazon,Mucajai,c5191,c5190,20267.92987926792,Brazil,RR,Negro
+5193,5192,Amazon,Uraricoera,c5193,c5192,49598.120387344396,Brazil,RR,Negro
+5194,5192,Amazon,Surumu,c5194,c5192,12675.904045323741,Brazil,RR,Negro
+5199,5181,Amazon,Demini,c5199,c5181,22935.014306699402,Brazil,AM,Negro
+5212,5205,Amazon,Casiquiare,c5212,c5205,9875.48812272158,Venezuela,,Negro
+5214,5212,Amazon,Siapa,c5214,c5212,22070.815814242087,Venezuela,AM,AMZ_OTCA
+5222,5220,Amazon,Caqueta 1,c5222,c5220,19854.739003955718,Colombia,AM,Caqueta_Japura
+5228,5227,Amazon,Caguan,c5228,c5227,21181.29631285491,Colombia,,Caqueta_Japura
+5229,5227,Amazon,Orteguaza,c5229,c5227,9782.07936872427,Colombia,,Caqueta_Japura
+5230,5227,Amazon,Caqueta 3,c5230,c5227,10786.88806976261,Colombia,,Caqueta_Japura
+5238,5235,Amazon,Putumayo 2,c5238,c5235,61939.09143533177,Colombia,,Putumayo_Ica
+5232,5216,Amazon,Tefe,c5232,c5216,24268.873340309372,Brazil,AM,Main_AMZ
+5240,5233,Amazon,Jurua 1,c5240,c5233,61898.64367672336,Brazil,AM,Main_AMZ
+5252,5246,Amazon,Pastaza,c5252,c5246,42270.63473511134,Ecuador,,Maranon
+5258,5257,Amazon,Chinchipe,c5258,c5257,9756.161636785288,Peru,,Maranon
+5262,5261,Amazon,Zamora,c5262,c5261,11336.84324864558,Ecuador,,Maranon
+5263,5261,Amazon,Namangoza,c5263,c5261,11069.214684967534,Ecuador,,Maranon
+5264,5257,Amazon,Maranon 3,c5264,c5257,52409.572209843005,Peru,,Maranon
+5274,5273,Amazon,Mantaro,c5274,c5273,34535.048536644324,Peru,,Ucayali
+5275,5273,Amazon,Apurimac,c5275,c5273,41441.50227896706,Peru,,Ucayali
+5276,5275,Amazon,Pampas,c5276,c5275,23219.67555571728,Peru,,Ucayali
+5277,5270,Amazon,Urubamba,c5277,c5270,59359.4821399101,Peru,,Ucayali
+5287,5285,Amazon,Aguarico,c5287,c5285,13344.796022343253,Ecuador,,Napo
+5288,5285,Amazon,Napo 2,c5288,c5285,31083.111320122778,Ecuador,,Napo
+6003,-999,Tocantins,Jacunda,c6003,outlet,10886.827599110478,Brazil,PA,AMZ_OTCA
+6030,6029,Tocantins,Parana,c6030,c6029,42251.76417717681,Brazil,GO,Tocantins
+6037,6034,Tocantins,Sono 2,c6037,c6034,18492.309385749948,Brazil,TO,Tocantins
+6047,-999,Tocantins,Foz Tocantins North,c6047,outlet,3739.8155760212994,Brazil,PA,AMZ_OTCA
+7010,-999,"North Brazil, South Atlantic Coast",Itapecuru,c7010,outlet,52817.460762867115,Brazil,MA,AMZ_OTCA
+8008,8006,Parnaiba,Balsas,c8008,c8006,25536.909620463943,Brazil,MA,AMZ_OTCA
+8015,8006,Parnaiba,Paranaiba 3,c8015,c8006,35675.273166857914,Brazil,MA,AMZ_OTCA
+12083,12081,La Plata,Taquari 2,c12083,c12081,11853.495188465089,Brazil,MS,AMZ_OTCA
+12086,12084,La Plata,Itiquira 1,c12086,c12084,6056.893647072855,Brazil,MT,AMZ_OTCA
+12088,12086,La Plata,Itiquira 2,c12088,c12086,10930.052877310676,Brazil,MT,AMZ_OTCA
+12091,12076,La Plata,Corixa Grande 1,c12091,c12076,28785.68655166593,Brazil,MT,AMZ_OTCA
+12093,12091,La Plata,Corixa Grande 2,c12093,c12091,10867.47083444563,Brazil,MT,AMZ_OTCA
+7005,-999,"North Brazil, South Atlantic Coast",Pericuma,c7005,outlet,12266.272755978544,Brazil,MA,AMZ_OTCA
+7003,-999,"North Brazil, South Atlantic Coast",Maracacume,c7003,outlet,9613.838373011542,Brazil,MA,AMZ_OTCA
+7001,-999,"North Brazil, South Atlantic Coast",Piria,c7001,outlet,18720.795810494325,Brazil,PA,AMZ_OTCA
+6042,-999,Tocantins,Foz Tocantins South,c6042,outlet,3153.280888092184,Brazil,PA,AMZ_OTCA
+5003,-999,Amazon,Mouth of the Amazon,c5003,outlet,9523.780705582118,Brazil,PA,Main_AMZ
+5001,-999,Amazon,South Amapa,c5001,outlet,28267.63601021334,Brazil,AP,AMZ_OTCA
+4035,-999,"Northeast South America, South Atlantic Coast",North Amapa,c4035,outlet,26813.285555305483,Brazil,AP,AMZ_OTCA
+3046,3044,Orinoco,Inirida,c3046,c3044,53577.080709293026,Colombia,,AMZ_OTCA
+5211,5205,Amazon,Icana,c5211,c5205,35516.146096105105,Brazil,AM,Negro
+4006,4005,"Northeast South America, South Atlantic Coast",Rupununi,c4006,c4005,12912.116026143814,Guyana,,AMZ_OTCA
+4018,4017,"Northeast South America, South Atlantic Coast",New,c4018,c4017,15982.807931825853,Guyana,PA,AMZ_OTCA
+5036,5030,Amazon,Jari 1,c5036,c5030,19353.1291999368,Brazil,PA,Main_AMZ
+6002,6001,Tocantins,Anapu,c6002,c6001,22041.07603634094,Brazil,PA,AMZ_OTCA
+5005,5004,Amazon,Bacaja,c5005,c5004,25644.267819148547,Brazil,PA,Xingu
+5006,5004,Amazon,Jaraucu,c5006,c5004,16652.07254319453,Brazil,PA,Xingu
+5008,5007,Amazon,Iriri 1,c5008,c5007,39339.71481856136,Brazil,PA,Xingu
+5013,5007,Amazon,Xingu 3,c5013,c5007,48111.15354248507,Brazil,PA,Xingu
+5011,5010,Amazon,Iriri 3,c5011,c5010,10708.463964404014,Brazil,PA,Xingu
+5012,5010,Amazon,Iriri Novo,c5012,c5010,11476.545352710817,Brazil,PA,Xingu
+5019,5017,Amazon,Xingu 5,c5019,c5017,28282.765686422183,Brazil,MT,Xingu
+5014,5013,Amazon,Fresco 1,c5014,c5013,8525.436427758796,Brazil,PA,Xingu
+5018,5017,Amazon,Liberdade,c5018,c5017,13570.585802899132,Brazil,MT,Tocantins
+5020,5019,Amazon,Suia Missu,c5020,c5019,23705.262658213178,Brazil,MT,Xingu
+5022,5019,Amazon,Manissaua Missu,c5022,c5019,17249.33143020612,Brazil,MT,Xingu
+5025,5024,Amazon,Ronuro,c5025,c5024,11723.805014374757,Brazil,MT,Xingu
+5029,5027,Amazon,Culuene 2,c5029,c5027,29450.59511015437,Brazil,MT,Xingu
+6018,6016,Tocantins,Mortes 2,c6018,c6016,29953.883077404367,Brazil,MT,Tocantins
+5031,5030,Amazon,Curuapanema,c5031,c5030,28277.66768665337,Brazil,PA,Main_AMZ
+5032,5030,Amazon,Curua Una,c5032,c5030,18030.27753594075,Brazil,PA,Main_AMZ
+5033,5032,Amazon,Curua do Sul,c5033,c5032,13084.397141168201,Brazil,PA,Main_AMZ
+5044,5040,Amazon,Arapiuns,c5044,c5040,15362.995245759692,Brazil,PA,Tapajos
+5041,5040,Amazon,Jamanxim 1,c5041,c5040,20951.414815236894,Brazil,PA,Tapajos
+5045,5040,Amazon,Tapajos 2,c5045,c5040,12013.66478585337,Brazil,PA,Tapajos
+5062,5060,Amazon,Teles Pires 3,c5062,c5060,17942.91567630366,Brazil,MT,Tapajos
+5050,5048,Amazon,Benedito,c5050,c5048,13739.885424011869,Brazil,PA,Tapajos
+5051,5048,Amazon,Juruena 1,c5051,c5048,18350.29466953746,Brazil,MT,Tapajos
+5053,5051,Amazon,Juruena 2,c5053,c5051,25955.87969357695,Brazil,MT,Tapajos
+5056,5053,Amazon,Sangue,c5056,c5053,28947.947810138805,Brazil,MT,Tapajos
+5059,5053,Amazon,Juruena 3,c5059,c5053,16272.352816388324,Brazil,MT,Tapajos
+5067,5066,Amazon,Nhamunda,c5067,c5066,28617.185869671237,Brazil,PA,Trombetas
+5069,5066,Amazon,Mapuera,c5069,c5066,25786.892416914838,Brazil,PA,Trombetas
+5154,5072,Amazon,Maues Acu,c5154,c5072,26323.38161265348,Brazil,AM,Abacaxis
+5073,5072,Amazon,Abacaxis,c5073,c5072,21752.870047558623,Brazil,AM,Abacaxis
+5074,5072,Amazon,Canuma,c5074,c5072,11614.550379672624,Brazil,AM,Abacaxis
+5075,5074,Amazon,Sucunduri,c5075,c5074,26427.80030501075,Brazil,AM,Abacaxis
+5076,5074,Amazon,Camaiu,c5076,c5074,14164.552327043604,Brazil,AM,Abacaxis
+5077,5072,Amazon,Madeira 1,c5077,c5072,17434.173396461953,Brazil,AM,Madeira
+5085,5082,Amazon,Roosevelt 2,c5085,c5082,25237.41401238491,Brazil,MT,Madeira
+5089,5087,Amazon,Ji-Parana,c5089,c5087,64307.329072866,Brazil,RO,Madeira
+12095,12094,La Plata,Jauru,c12095,c12094,10932.326263195348,Brazil,MT,AMZ_OTCA
+5122,5121,Amazon,Caine,c5122,c5121,10450.018243040528,Bolivia,,Madeira
+5133,5131,Amazon,Piedras,c5133,c5131,18914.824435803446,Peru,,Madeira
+5138,5136,Amazon,Tahuamanu,c5138,c5136,15759.690912035423,Peru,AC,Madeira
+5143,5139,Amazon,Tuichi,c5143,c5139,9570.413479633602,Bolivia,,Madeira
+5145,5091,Amazon,Abuna,c5145,c5091,23114.392966183485,Bolivia,RO,Madeira
+5151,5150,Amazon,Luna,c5151,c5150,10089.0061980223,Brazil,AM,Madeira
+5152,5150,Amazon,Mamori,c5152,c5150,8685.83434893654,Brazil,AM,Madeira
+5155,5072,Amazon,Urubu,c5155,c5072,12824.552037350642,Brazil,AM,Main_AMZ
+5157,5072,Amazon,Uatuma,c5157,c5072,33423.70921387347,Brazil,AM,Main_AMZ
+5158,5157,Amazon,Jatapu,c5158,c5157,34494.00401340445,Brazil,AM,Main_AMZ
+5159,5072,Amazon,Amazon 4,c5159,c5072,32530.956725354994,Brazil,AM,Main_AMZ
+5185,5181,Amazon,Unini,c5185,c5181,27310.1696474571,Brazil,AM,Negro
+5160,5159,Amazon,Piorini,c5160,c5159,19649.762126504167,Brazil,AM,Main_AMZ
+5161,5159,Amazon,Purus 1,c5161,c5159,31488.674754812408,Brazil,AM,Purus
+5162,5161,Amazon,Ipixuna,c5162,c5161,19050.995672853936,Brazil,AM,Purus
+5164,5163,Amazon,Ituxi 1,c5164,c5163,15080.247364106332,Brazil,AM,Purus
+5165,5164,Amazon,Curuquete,c5165,c5164,8625.176717304137,Brazil,AM,Purus
+5166,5164,Amazon,Ituxi 2,c5166,c5164,20041.179157197468,Brazil,AM,Purus
+5168,5163,Amazon,Tapaua 1,c5168,c5163,24847.09354838942,Brazil,AM,Purus
+5170,5168,Amazon,Tapaua 2,c5170,c5168,28769.796566569265,Brazil,AM,Purus
+5172,5171,Amazon,Acre,c5172,c5171,36526.541921959746,Brazil,AC,Purus
+5174,5171,Amazon,Pauini,c5174,c5171,25127.58942804721,Brazil,AM,Purus
+5179,5178,Amazon,Camanau,c5179,c5178,11779.48606270043,Brazil,AM,Negro
+5180,5178,Amazon,Jau,c5180,c5178,18812.607423999973,Brazil,AM,Negro
+5183,5182,Amazon,Macucuau,c5183,c5182,15730.250103105674,Brazil,RR,Negro
+5189,5186,Amazon,Anaua,c5189,c5186,21208.596587017233,Brazil,RR,Negro
+5198,5181,Amazon,Cuiuni,c5198,c5181,11723.914420961613,Brazil,AM,Negro
+5201,5181,Amazon,Negro 3,c5201,c5181,48100.65125874738,Brazil,AM,Negro
+5202,5201,Amazon,Ajuana,c5202,c5201,12418.958788329799,Brazil,AM,Negro
+5206,5205,Amazon,Marie,c5206,c5205,25265.006054504545,Brazil,AM,Negro
+5209,5208,Amazon,Tiquie,c5209,c5208,12647.89544948383,Brazil,AM,Negro
+5210,5208,Amazon,Uaupes 2,c5210,c5208,43895.17691681695,Colombia,AM,Negro
+5215,5205,Amazon,Negro 5,c5215,c5205,28771.091512462488,Colombia,AM,Negro
+5217,5216,Amazon,Coari,c5217,c5216,20138.19842378765,Brazil,AM,Main_AMZ
+5219,5216,Amazon,Parana Copea,c5219,c5216,10485.713955640911,Brazil,AM,Main_AMZ
+5221,5220,Amazon,Purue,c5221,c5220,15370.134428570826,Brazil,AM,Caqueta_Japura
+5223,5222,Amazon,Cahuinari,c5223,c5222,14995.904382558152,Colombia,,Caqueta_Japura
+5227,5222,Amazon,Caqueta 2,c5227,c5222,27202.552080738842,Colombia,,Caqueta_Japura
+5231,5220,Amazon,Apaporis,c5231,c5220,57173.00820621927,Colombia,AM,Caqueta_Japura
+5239,5233,Amazon,Jutai,c5239,c5233,78108.30622756197,Brazil,AM,Main_AMZ
+5234,5233,Amazon,Jandiatuba,c5234,c5233,14065.958306398226,Brazil,AM,Main_AMZ
+5236,5235,Amazon,Yaguas,c5236,c5235,10539.615895481878,Peru,,Putumayo_Ica
+5242,5240,Amazon,Tarauaca,c5242,c5240,28215.464939769798,Brazil,AC,Jurua
+5243,5242,Amazon,Envira,c5243,c5242,26495.974152054674,Brazil,AC,Jurua
+5244,5240,Amazon,Jurua 2,c5244,c5240,63550.23533963825,Brazil,AC,Jurua
+5246,5245,Amazon,Maranon 1,c5246,c5245,22441.692088340118,Peru,,Maranon
+5247,5246,Amazon,Huallaga 1,c5247,c5246,21221.36476362714,Peru,,Maranon
+5253,5246,Amazon,Samiria,c5253,c5246,11003.493317869128,Peru,,Maranon
+5249,5247,Amazon,Huallaga 2,c5249,c5247,14358.339131181885,Peru,,Maranon
+5251,5249,Amazon,Huallaga 3,c5251,c5249,30484.33437642556,Peru,,Maranon
+5255,5246,Amazon,Tigre,c5255,c5246,29961.571827247335,Peru,,Maranon
+5266,5265,Amazon,Pachitea,c5266,c5265,28906.812618191834,Peru,,Ucayali
+5267,5265,Amazon,Tamaya,c5267,c5265,17573.388776528154,Peru,AC,Ucayali
+5268,5265,Amazon,Aguaytia,c5268,c5265,11355.9373691921,Peru,,Ucayali
+5269,5265,Amazon,Tapiche,c5269,c5265,18706.701216976893,Peru,AC,Ucayali
+5279,5278,Amazon,Yavari Mirin,c5279,c5278,8629.48898959536,Peru,,Javari
+5278,5245,Amazon,Javari 1,c5278,c5245,8885.893716095683,Brazil,AM,Javari
+5283,5278,Amazon,Javari 2,c5283,c5278,23034.725107061557,Peru,AM,Javari
+5280,5278,Amazon,Curuca,c5280,c5278,25438.43063547932,Brazil,AM,Javari
+5282,5281,Amazon,Itui,c5282,c5281,19389.38693350054,Brazil,AM,Javari
+5284,5245,Amazon,Nanay,c5284,c5245,16599.677662996484,Peru,,Main_AMZ
+5285,5245,Amazon,Napo 1,c5285,c5245,31176.310257251196,Peru,,Napo
+5286,5285,Amazon,Curaray,c5286,c5285,26585.369694048757,Ecuador,,Napo
+6026,6024,Tocantins,Itacaiunas 2,c6026,c6024,18787.257987891007,Brazil,PA,Tocantins
+6006,6005,Tocantins,Pau d'Arco,c6006,c6005,13447.767080058502,Brazil,PA,Tocantins
+6008,6007,Tocantins,Tapirape,c6008,c6007,21579.642823889382,Brazil,MT,Tocantins
+6020,6019,Tocantins,Garcas,c6020,c6019,13437.615458362783,Brazil,MT,Tocantins
+6025,6024,Tocantins,Parauapebas,c6025,c6024,9950.717383024197,Brazil,PA,Tocantins
+6028,6027,Tocantins,Manuel Alves Grande,c6028,c6027,16493.698994308223,Brazil,TO,Tocantins
+6036,6034,Tocantins,Perdida,c6036,c6034,9626.057869148095,Brazil,TO,Tocantins
+6044,6043,Tocantins,Moju,c6044,c6043,12902.87317725664,Brazil,PA,AMZ_OTCA
+6046,6045,Tocantins,Capim,c6046,c6045,36506.792533678046,Brazil,PA,AMZ_OTCA
+7009,7008,"North Brazil, South Atlantic Coast",Grajau,c7009,c7008,21672.302579535677,Brazil,MA,AMZ_OTCA
+12085,12084,La Plata,Cuiaba,c12085,c12084,40583.424051262686,Brazil,MT,AMZ_OTCA
+12090,12089,La Plata,Poguba Xoreu,c12090,c12089,15042.341245801084,Brazil,MT,AMZ_OTCA
+12098,12094,La Plata,Paraguay 6,c12098,c12094,16522.497099013213,Brazil,MT,AMZ_OTCA
