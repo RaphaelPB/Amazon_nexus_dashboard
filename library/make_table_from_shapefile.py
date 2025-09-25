@@ -9,6 +9,9 @@ map_basins = True
 # basin_file
 basin_path = "/home/rpb/majiconsult/amazon/QGIS/Boundaries/OTCA_plus_main_basins/OTCA_plus_MainBasins_v2_fixed.shp"
 
+#map centroids
+map_centroids = True
+
 # open shapefile
 shapefile_df = gpd.read_file(file_path)
 
@@ -34,6 +37,24 @@ if map_basins:
     # save shapefile
     shapefile_df.to_file(file_path)
 
+# Make catchment centroid lat long and destination lat long
+if map_centroids:
+    # Compute centroids of each catchment in shapefile_df
+    shapefile_df['centroid'] = shapefile_df.geometry.centroid
+    shapefile_df['lat'] = shapefile_df['centroid'].y
+    shapefile_df['lon'] = shapefile_df['centroid'].x
+    # Merge shapefile_df with itself to get downstream lat/lon
+    shapefile_df = shapefile_df.merge(
+        shapefile_df[['catchment', 'lat', 'lon']],
+        how='left',
+        left_on='catch_ds',
+        right_on='catchment',
+        suffixes=('', '_ds')
+    )
+    # Rename the merged lat/lon to ds_lat, ds_lon
+    shapefile_df.rename(columns={'lat_ds': 'ds_lat', 'lon_ds': 'ds_lon'}, inplace=True)
+    # Optionally drop the extra 'catchment_ds' column
+    shapefile_df.drop(columns=['catchment_ds', 'centroid'], inplace=True, errors='ignore')
 
 # export
 shapefile_df.drop('geometry',axis=1).to_csv(out_path, index=False)
